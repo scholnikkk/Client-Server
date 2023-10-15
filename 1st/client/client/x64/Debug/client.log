@@ -1,0 +1,4 @@
+﻿  client.cpp
+C:\Users\Мой хозяин\OneDrive\Рабочий стол\компьютерные сети\Лаба 2\client\client\client.cpp(41,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Мой хозяин\OneDrive\Рабочий стол\компьютерные сети\Лаба 2\client\client\client.cpp(42,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> C:\Users\Мой хозяин\OneDrive\Рабочий стол\компьютерные сети\Лаба 2\client\x64\Debug\client.exe

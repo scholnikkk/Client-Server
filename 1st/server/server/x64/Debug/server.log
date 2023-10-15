@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\Мой хозяин\OneDrive\Рабочий стол\компьютерные сети\Лаба 2\server\server\server.cpp(80,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> C:\Users\Мой хозяин\OneDrive\Рабочий стол\компьютерные сети\Лаба 2\server\x64\Debug\server.exe
